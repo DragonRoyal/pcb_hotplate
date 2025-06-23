@@ -15,7 +15,7 @@ With that theres a few keypoints, if I want to constantly monitor and control th
 My hotplate will have a big heating area in order which can fit up to 400mm by 400mm PCB's, in order to reach consistant heating over the heating area im going to have to have nichrome wire routed in close proximity to each other, but I still need to have hardstops to prevent accidentaL shorts. Im going to have 2 copper plates connected by a thin solder joint. For the wires I constructed a box and made traces of wires run through it to ensure the entire box area is properly covered. ![image](https://github.com/user-attachments/assets/1eee4ec4-4db9-4b56-8cb7-dd96ca0f0193) and then I ran a linear pattern through it ![image](https://github.com/user-attachments/assets/4b08c178-1042-4036-9108-bfa9c95667ef)
 I want the heating part to be "seperate" from the enclosure so it does not accidently melt it, so I added standooffs which seperated the distance as well as fans to cool the plate after heating. I also added a THT screen for displaying tempeture profiles as well as 2 buttons for switching/selecting between the different profiles.
 ![image](https://github.com/user-attachments/assets/28e59456-79ae-4242-b615-e92abef160b3)
- 
+**Time spent 5 hours**
 
 
 
