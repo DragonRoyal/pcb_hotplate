@@ -8,3 +8,6 @@ I made this project to learn more about how exactly does generating heat work an
 ![Screenshot 2025-06-27 002055](https://github.com/user-attachments/assets/b090d67e-0732-4238-b5e5-582126f8a064)
 ![Screenshot 2025-06-27 002433](https://github.com/user-attachments/assets/f3f3fdae-ac76-4dcc-a883-efc2d9edb686)
 ![Screenshot 2025-06-25 002943](https://github.com/user-attachments/assets/765936b3-808f-4948-8ca8-a7eb7aeaad15)
+![image](https://github.com/user-attachments/assets/7b757305-f199-4ecc-8464-c9120f320ff4)
+TOTAL: $106
+CSV IN REPO
