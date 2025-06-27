@@ -32,6 +32,14 @@ It will now hav ea angled screen and control panel and a more lightweight frame.
 ![Screenshot 2025-06-25 231320](https://github.com/user-attachments/assets/d700c9e4-a53e-4727-b8d2-5aef36a6be69) and I then I just finished the assembly and added all my parts, the pcb with the oled and buttons, 2 fans underneath the case, the heating pcb and 4 standoffs![image](https://github.com/user-attachments/assets/46bd34d3-122e-4514-a6c9-bc1910ca7524)
 **Time spent 5 hours**
 
+## **6/27/2025 Log 5 Master PCB work** ##
+Since I already made my pcb heater I made my master pcb in which all the power would go into and it would control the entire machine. I would have 2 wires which connect to the pcb heater sheet with a MCU and thermosistor to detect tempreture. I would have 2 buttons for selecting and picking which reflow curve to follow as well as a TFT screen showing the tempreture curve. ![image](https://github.com/user-attachments/assets/809cc774-008e-43c4-a03d-1f615189867b) I worked on the schematic and learned about how a thermosistor works and how to convert the resistance it gives into current ![Thermistor-Reading-Circuit](https://github.com/user-attachments/assets/bc890471-7977-41fa-9c8b-f62b129ac68f) I also created a few symbols such as the buck converter ![Screenshot 2025-06-13 165949](https://github.com/user-attachments/assets/d6800ad6-e26e-4641-b7f9-e9e15f8440ef) I then created the layout for the actual board which was relatively straight forward and I routed it. 
+![image](https://github.com/user-attachments/assets/901192a3-5d5f-4c15-953d-a5997cee69be)![image](https://github.com/user-attachments/assets/03a5acd4-5da8-427a-b3db-904dee4ecafc)
+**Time spent 3 hours**
+
+
+
+
 
 
 
